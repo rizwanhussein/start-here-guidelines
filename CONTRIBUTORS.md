@@ -8606,8 +8606,6 @@
 
 -[@rizwanhussein](https://github.com/rizwanhussein)
 
-- [rizwanhussein](https://github.com/rizwanhussein)
-
 - [@Dhruv-was-taken](https://github.com/Dhruv-was-taken)
 
 - [@medlaah88](https://github.com/medlaah88)
